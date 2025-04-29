@@ -1,5 +1,7 @@
 # 💫 About Me:
-i'm a Python Developper
+| Python Developper 👨‍💻
+
+
 
 
 ## 🌐 Socials:
